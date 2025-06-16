@@ -15,9 +15,9 @@ def send_mail(total, success, reject):
 
 
 
-    sender_email = "vineet.sk666@gmail.com"
-    receiver_email = "vineet.sk666@gmail.com"
-    password = "lsel flar uyfw sgcd"  # Use app-specific password for Gmail
+    sender_email = "enter sender email"
+    receiver_email = "enter receiver email"
+    password = "enter app specific password"  # Use app-specific password for Gmail
 
     # Create the email message
     message = EmailMessage()
