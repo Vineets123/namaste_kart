@@ -16,7 +16,7 @@ Every day, NamasteKart receives transaction files from its operations in Mumbai 
 ---
 
 ## 🧾 Folder Structure
-
+Incoming file folder is manually created but the other two should be created automatically via code
 ```
 NamasteKart/
 ├── incoming_files/
